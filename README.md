@@ -1,4 +1,3 @@
-
 Amazon Sales Data Visualization Dashboard
 Task 2: Data Visualization and Storytelling
 Objective:
